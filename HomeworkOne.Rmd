@@ -1,6 +1,6 @@
 ---
 title: "Ödev 1"
-author: "Ad Soyad"
+author: "Zehra Alpınar 21080531"
 ---
 
 ```{r global_options, include=FALSE}
@@ -12,40 +12,51 @@ opts_chunk$set(fig.align="center", fig.height=4, fig.width=5.5)
 
 **Soru 1** Markdown kullanarak bir kelimesi kalın olan bir cümle yazınız.
 
-Cevabınızı buraya yazınız!
+İstatistik dersi **faydalıdır**.
 
 **Soru 2** Markdown kullanarak bir kelimesi italik olan bir cümle yazınız.
 
-Cevabınızı buraya yazınız!
+Şuan _ödev_ yapıyorum.
 
 **Soru 3** Markdown kullanarak bir kelimesi kalın italik olan bir cümle yazınız.
 
-Cevabınızı buraya yazınız!
+Şuan **_ödev_** yapıyorum.
 
 **Soru 4** Markdown kullanarak 3 elemanlı bir sırasız liste yazınız.
 
-Cevabınızı buraya yazınız!
+*Kalem
+*Defter
+*Silgi
 
 **Soru 5** Markdown kullanarak 3 elemanlı bir sıralı liste yazınız.
 
-Cevabınızı buraya yazınız!
+1.Mavi
+2.Siyah
+3.Beyaz
 
 **Soru 6** Markdown kullanarak istediğiniz bir websayfasına link veriniz.
 
-Cevabınızı buraya yazınız!
+([Dr!](https://www.dr.com.tr/))
 
 **Soru 7** Markdown kullanarak bir komik bir kedi fotoğrafı ekleyiniz.
 
-Cevabınızı buraya yazınız!
+![Selfie yapan kedi](https://i4.hurimg.com/i/hurriyet/75/0x0/5efd782445d2a04ed8f62cb8.jpg)
 
 **Soru 8** RMarkdown kullanarak bir kod bloğu ekleyiniz ve içerisinde basit bir matematik işlemi yapınız.
-
-Cevabınızı buraya yazınız!
+```{r}
+5*5
+```
 
 **Soru 9** LaTeX kullanarak bir blok denklem yazınız
 
-Cevabınızı buraya yazınız!
+$$
+\mathbb{E}[Y] = \beta_5 - \beta_2x
+$$
+
 
 **Soru 9** Bir kod bloğu ekleyerek 5 + 4 toplamını hesaplayınız.
+```{r}
+5 + 4
+```
 
-Cevabınızı buraya yazınız!
+
